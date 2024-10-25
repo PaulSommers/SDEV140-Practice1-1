@@ -6,9 +6,9 @@ Short Desc: This program defines variables for my name, address, and phone numbe
 """
 
 # Define variables and assign values
-strName = "Paul Sommers"
-strAddress = "5273 Brandywine Drive, Whitestown, IN 46075"
-strPhone = "317-970-6735"
+strName = "removed for github"
+strAddress = "removed for github"
+strPhone = "removed for github"
 
 # Display the values of the variables
 print("Name:", strName)
